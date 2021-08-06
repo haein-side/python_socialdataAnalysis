@@ -1,2 +1,2 @@
 # python_socialdataAnalysis
-class papaer
+class paper
